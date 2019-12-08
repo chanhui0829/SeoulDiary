@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">travel</string>
+    <!-- Ted Permission -->
+    <string name="permission_1">You can grant permissions in [Settings]-[Permissions].</string>
+    <string name="permission_2">You need access to save photos and files.</string>
+    <string name="recommendtour">RecommedTour</string>
+    <string name="odsay_key">WlJftxhYSHjhd8HqYjAINza8WV5ehhlMolHOJ3rFImM</string>
+    <string name="search">search</string>
+    <string name="search_map_start">Starting point</string>
+    <string name="search_map_end">destination</string>
+    <string name="all">all</string>
+    <string name="bus">bus</string>
+    <string name="subway">subway</string>
+    <string name="subbus">bus+subway</string>
+    <string name="noresult">There is no result.</string>
+
+
+    <string name="tr_firts">Create new route</string>
+    <string name="tr_start">Start</string>
+    <string name="tr_stop">Stop</string>
+    <string name="tr_stopcontent">You can save the path.\nNote that the path will disappear when you leave the page.\nPress Start to continue the path</string>
+    <string name="tr_restopcontent">Press Stop again to stop drawing the path\nCan save path</string>
+    <string name="tr_memostart">Memo</string>
+    <string name="tr_memonostart">There is already a path in that location</string>
+    <string name="tr_memonostart2">Only available when running</string>
+    <string name="tr_memonostart3">Please register a memo after the marker appears</string>
+    <string name="tr_memo_memo">Memo</string>
+    <string name="tr_memo_kategorie">Category</string>
+    <string name="tr_prioty1">Tourist spot</string>
+    <string name="tr_prioty2">Restaurant</string>
+    <string name="tr_prioty3">Person</string>
+    <string name="tr_prioty4">etc</string>
+    <string name="tr_memo_title">title</string>
+    <string name="tr_memo_titlehint">Please enter a title</string>
+    <string name="tr_memo_notitle">Do not use this word as a title</string>
+    <string name="tr_memo_content">Content</string>
+    <string name="tr_memo_contenthint">Please enter a content</string>
+    <string name="tr_memo_savebtn">Save</string>
+    <string name="tr_memo_cancel">Cencel</string>
+    <string name="tr_save">Save</string>
+    <string name="tr_saveno"> There is no information to save</string>
+    <string name="tr_saveno2">You need to stop working to use it</string>
+    <string name="tr_savecontent">Please enter the name of the route you traveled</string>
+    <string name="tr_savecom">Saved</string>
+    <string name="tr_close">Press Back again to exit the map</string>
+
+    <string name="tri_seememolist">View MemoList</string>
+    <string name="tri_seemap">View Map</string>
+    <string name="tri_insert">Modify</string>
+    <string name="tri_delete">Delete</string>
+    <string name="tri_dialtitle">warning</string>
+    <string name="tri_dialcontent">Do you really want to delete the memo?</string>
+    <string name="tri_dialyes">yse</string>
+    <string name="tri_dialno">no</string>
+
+
+    <string name="tm_insert">Edit name</string>
+    <string name="tm_insertcontent">Please enter a name to change</string>
+    <string name="tm_insertyes">Change</string>
+    <string name="tm_dialcontent">Do you really want to clear the path?</string>
+    <string name="tm_dialdelyse">Deleted</string>
+
+    <string name="t_markstart">departure</string>
+    <string name="t_markend">arrive</string>
+    <string name="t_markloca">Mylocation</string>
+    <string name="mapview">Map View</string>
+    <string name="roadsearch">Road Search</string>
+
+    <string name="maplisttitle">Title</string>
+    <string name="maplistdate">Date</string>
+    <string name="favorite1">Saved place</string>
+    <string name="favorite2">Removed place</string>
+    <string name="reset">Reset</string>
+    <string name="reset2">Do you want to reset your favorite place?</string>
+    <string name="resetyes">yes</string>
+    <string name="resetno">no</string>
+
+
+    <string name="bn_home">Home</string>
+    <string name="bn_main">My Travel</string>
+    <string name="bn_roadsearch">Public Transport</string>
+    <string name="bn_recommendtour">Recommend Tour</string>
+
+</resources>

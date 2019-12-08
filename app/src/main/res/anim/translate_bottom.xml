@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+	android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+	>
+	<translate 
+		android:fromYDelta="100%p"
+		android:toYDelta="0%p"
+		android:duration="200"
+		android:repeatCount="0"
+		android:fillAfter="true"
+		/>
+
+		<!--fromXDelta 시작값(이 xml에서는 화면 오른쪽끝)
+		toXDelta 끝나는값
+		duration 나오는데 걸리는시간
+		repaet 반복몇번할건지
+		fillAfter애니메이션 끝나면 끝난상태로 멈춰놓을건지 아닐지 true는 멈추는거
+		left였던것
+	-->
+</set>

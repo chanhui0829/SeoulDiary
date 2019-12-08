@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuitem_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/bn_home"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menuitem_main"
+        android:icon="@drawable/ic_main"
+        android:title="@string/bn_main"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menuitem_SearchMapActivity"
+        android:icon="@drawable/ic_roadsearch"
+        android:title="@string/bn_roadsearch"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menuitem_recommendtour"
+        android:icon="@drawable/ic_recommendtour"
+        android:title="@string/bn_recommendtour"
+        app:showAsAction="ifRoom"/>
+</menu>

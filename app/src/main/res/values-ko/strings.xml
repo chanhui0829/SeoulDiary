@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">travel</string>
+    <!-- Ted Permission -->
+    <string name="permission_1">[설정] > [권한] 에서 권한을 허용할 수 있습니다.</string>
+    <string name="permission_2">사진 및 파일을 저장하기 위하여 접근 권한이 필요합니다.</string>
+    <string name="recommendtour">RecommedTour</string>
+    <string name="odsay_key">WlJftxhYSHjhd8HqYjAINza8WV5ehhlMolHOJ3rFImM</string>
+    <string name="search">search</string>
+    <string name="search_map_start">출발지</string>
+    <string name="search_map_end">도착지</string>
+    <string name="all">전체</string>
+    <string name="bus">버스</string>
+    <string name="subway">지하철</string>
+    <string name="subbus">버스+지하철</string>
+    <string name="noresult">검색 결과가 없습니다</string>
+
+    <string name="tr_firts">새 경로 그리기</string>
+    <string name="tr_start">시작</string>
+    <string name="tr_stop">중지</string>
+    <string name="tr_stopcontent">경로를 저장할 수 있습니다.\n페이지를 나가면 경로가 사라지므로 주의해주세요\n시작을 누르면 이어서 경로를 그립니다</string>
+    <string name="tr_restopcontent">한번 더 중지를 누르면 경로그리기를 그만두고\n저장을 할 수 있습니다</string>
+    <string name="tr_memostart">메모등록</string>
+    <string name="tr_memonostart">해당 위치에 이미 메모가 있습니다</string>
+    <string name="tr_memonostart2">작동 중일때만 사용 가능합니다</string>
+    <string name="tr_memonostart3">마커가 나타난 후 메모를 등록해주세요</string>
+    <string name="tr_memo_memo">메모</string>
+    <string name="tr_memo_kategorie">카테고리</string>
+    <string name="tr_prioty1">관광지</string>
+    <string name="tr_prioty2">맛집</string>
+    <string name="tr_prioty3">인물</string>
+    <string name="tr_prioty4">기타</string>
+    <string name="tr_memo_title">제목</string>
+    <string name="tr_memo_titlehint">제목을 입력해주세요</string>
+    <string name="tr_memo_notitle">이 단어는 제목으로 사용하지 말아주세요</string>
+    <string name="tr_memo_content">내용</string>
+    <string name="tr_memo_contenthint">내용을 입력해주세요</string>
+    <string name="tr_memo_savebtn">등록</string>
+    <string name="tr_memo_cancel">취소</string>
+    <string name="tr_save">저장</string>
+    <string name="tr_saveno"> 저장할 정보가 없습니다</string>
+    <string name="tr_saveno2">작동을 중지하셔야 사용 가능합니다</string>
+    <string name="tr_savecontent">이동할 경로의 이름을 입력해주세요</string>
+    <string name="tr_savecom">저장 완료</string>
+    <string name="tr_close">뒤로가기를 한번 더 누르면 지도가 종료됩니다</string>
+
+    <string name="tri_seememolist">메모 목록 보기</string>
+    <string name="tri_seemap">지도 보기</string>
+    <string name="tri_insert">수정</string>
+    <string name="tri_delete">삭제</string>
+    <string name="tri_dialtitle">경고</string>
+    <string name="tri_dialcontent">메모를 정말 지우시겠습니까?</string>
+    <string name="tri_dialyes">예</string>
+    <string name="tri_dialno">아니요</string>
+
+
+    <string name="tm_insert">이름수정</string>
+    <string name="tm_insertcontent">바꿀 이름을 입력해주세요</string>
+    <string name="tm_insertyes">변경</string>
+    <string name="tm_dialcontent">경로를 정말 지우시겠습니까?</string>
+    <string name="tm_dialdelyse">삭제되었습니다</string>
+
+    <string name="t_markstart">시작</string>
+    <string name="t_markend">끝</string>
+    <string name="t_markloca">현재위치</string>
+
+    <string name="mapview">지도 보기</string>
+    <string name="roadsearch">길찾기</string>
+
+    <string name="maplisttitle">제목</string>
+    <string name="maplistdate">날짜</string>
+
+    <string name="favorite1">나의 코스에 추가되었습니다.</string>
+    <string name="favorite2">나의 코스에서 삭제되었습니다.</string>
+
+    <string name="reset">초기화</string>
+    <string name="reset2">등록하신 코스를 초기화 하시겠습니까?</string>
+    <string name="resetyes">예</string>
+    <string name="resetno">아니오</string>
+
+
+    <string name="bn_home">홈</string>
+    <string name="bn_main">나의 관광</string>
+    <string name="bn_roadsearch">길찾기</string>
+    <string name="bn_recommendtour">추천코스</string>
+
+
+</resources>
