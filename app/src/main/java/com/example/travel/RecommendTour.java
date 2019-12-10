@@ -50,7 +50,7 @@ public class RecommendTour extends Fragment {
     String tourtypekeyword,tourtype,sigungukeyword,sigungutype = "";
     String Vcontentid,mapx,mapy,result;
     String language = "KorService";
-    String keynum = "vjv7CB%2FsAljrwMUUuRhv7F01yS6dNHpU1BU8haGNwp3Q%2FhKNMLb%2BZFD%2BzB9Nw0n94GRT1lk%2B0nvN%2Fq3G%2Btq38A%3D%3D";
+    String keynum = "servicekey";
     Spinner spinnertype, sigungu;
     ArrayAdapter TourTypeAdapter,SigunguAdapter;
 
@@ -259,7 +259,7 @@ public class RecommendTour extends Fragment {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()){
             case R.id.action_bt2:
-                Intent movemap = new Intent(getActivity(),MyCos.class);
+                Intent movemap = new Intent(getActivity(), BookMarkMap.class);
                 startActivity(movemap);
                 break;
         }

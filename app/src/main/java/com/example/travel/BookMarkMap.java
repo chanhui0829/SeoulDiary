@@ -21,7 +21,7 @@ import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 
-public class MyCos extends AppCompatActivity implements OnMapReadyCallback {
+public class BookMarkMap extends AppCompatActivity implements OnMapReadyCallback {
     GoogleMap mMap;
     String mapx,mapy,title,addr,contentid;
     Cursor cursor;
@@ -36,7 +36,7 @@ public class MyCos extends AppCompatActivity implements OnMapReadyCallback {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        setContentView(R.layout.activity_mycos);
+        setContentView(R.layout.activity_bookmarkmap);
 
 
         Toolbar toolbar = (Toolbar)findViewById(R.id.toolbar); //툴바설정

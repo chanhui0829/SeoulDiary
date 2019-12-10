@@ -31,12 +31,22 @@
             android:layout_height="wrap_content"
             android:layout_weight="1">
 
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0"
+                android:gravity="center"
+                android:text="출처 : 한국관광공사"
+                android:textSize="10sp"
+                app:layout_constraintBottom_toBottomOf="parent" />
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:orientation="vertical"
                 android:paddingTop="10dp"
-                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintBottom_toTopOf="@+id/textView8"
                 app:layout_constraintTop_toTopOf="parent">
 
                 <TextView
@@ -79,7 +89,6 @@
                     android:layout_marginTop="8dp"
                     android:layout_marginEnd="8dp"
                     android:layout_marginRight="8dp"
-                    android:layout_marginBottom="8dp"
                     android:fadeScrollbars="true"
                     android:isScrollContainer="false"
                     android:overScrollMode="always"

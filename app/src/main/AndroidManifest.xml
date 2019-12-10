@@ -24,11 +24,11 @@
         <activity android:name=".RecommendMap" />
         <activity android:name=".TravelResult" />
         <activity android:name=".BookMarkMap"/>
-        <activity android:name=".ReSearchMapActivity"/>
+        <activity android:name=".RecommendSearchMapActivity"/>
         <activity android:name=".RecommendTourDetail"/>
         <activity android:name=".RecommendAllMap"/>
 
-        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyDeDbH_B2S3dLpYcKuIRf2NJ-mBY8LFwY0"/>
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="service key"/>
 
         <meta-data
 
