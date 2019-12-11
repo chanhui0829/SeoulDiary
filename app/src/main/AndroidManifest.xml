@@ -28,7 +28,7 @@
         <activity android:name=".RecommendTourDetail"/>
         <activity android:name=".RecommendAllMap"/>
 
-        <meta-data android:name="com.google.android.geo.API_KEY" android:value="service key"/>
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="apikey"/>
 
         <meta-data
 

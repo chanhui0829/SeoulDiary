@@ -60,8 +60,9 @@
                 <ImageView
                     android:id="@+id/detail_img"
                     android:layout_width="280dp"
-                    android:layout_height="280dp"
+                    android:layout_height="260dp"
                     android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
                     android:scaleType="fitXY" />
 
                 <TextView

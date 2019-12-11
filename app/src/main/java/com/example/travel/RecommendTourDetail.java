@@ -91,7 +91,7 @@ public class RecommendTourDetail extends AppCompatActivity {
             language = "EngService";
         }
 
-        keynum = "servicekey";
+        keynum = "apikey";
 
 
         //264111

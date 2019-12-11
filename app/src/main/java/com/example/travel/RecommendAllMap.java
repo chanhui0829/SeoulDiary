@@ -33,7 +33,7 @@ public class RecommendAllMap  extends AppCompatActivity implements OnMapReadyCal
 
     double mylatitude,mylongitude,lat,lon;
     String result,language,mapx,mapy,contentid,title;
-    String keynum = "servicekey";
+    String keynum = "apikey";
     int page = 1;
 
 

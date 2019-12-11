@@ -50,7 +50,7 @@ public class RecommendTour extends Fragment {
     String tourtypekeyword,tourtype,sigungukeyword,sigungutype = "";
     String Vcontentid,mapx,mapy,result;
     String language = "KorService";
-    String keynum = "servicekey";
+    String keynum = "apikey";
     Spinner spinnertype, sigungu;
     ArrayAdapter TourTypeAdapter,SigunguAdapter;
 
